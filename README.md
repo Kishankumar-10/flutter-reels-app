@@ -14,6 +14,17 @@ A modern Flutter application for watching short videos with a TikTok-like interf
 
 ## 📸 Screenshots
 
+- **Splash Screen**:  
+  Displays the app logo and branding during startup, giving users a clean and modern entry point.
+
+- **Categories Page**:  
+  Users can select their preferred video categories such as Comedy, Education, Motivation, etc., to personalize their feed.
+
+- **Video Feed Page**:  
+  TikTok-style full-screen videos fetched from the Pexels API. Smooth infinite scrolling, with playback using `chewie` and `video_player` packages.
+
+Example Screenshots:
+
 | Splash Screen | Categories Page | Video Feed |
 |---------------|------------------|-------------|
 | ![](screenshots/splash_screen.png) | ![](screenshots/categories_screen.png) | ![](screenshots/video_feed.png) |

@@ -12,6 +12,12 @@ A modern Flutter application for watching short videos with a TikTok-like interf
 - 🎯 **Category Selection**: Choose your preferred content categories
 - 🔄 **Fresh Content**: New videos on every refresh
 
+## 📸 Screenshots
+
+| Splash Screen | Categories Page | Video Feed |
+|---------------|------------------|-------------|
+| ![](screenshots/splash_screen.png) | ![](screenshots/categories_screen.png) | ![](screenshots/video_feed.png) |
+
 ## Setup Instructions
 
 ### 1. Clone the Repository

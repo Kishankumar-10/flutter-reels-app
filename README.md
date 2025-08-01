@@ -27,7 +27,7 @@ Example Screenshots:
 
 | Splash Screen | Categories Page | Video Feed |
 |---------------|------------------|-------------|
-| ![](screenshots/splash_screen.png) | ![](screenshots/categories_screen.png) | ![](screenshots/video_feed.png) |
+| ![](screenshots/splash_screen.png) | ![](screenshots/categories_screen.png) | ![](screenshots/video_screen.png) |
 
 ## Setup Instructions
 
